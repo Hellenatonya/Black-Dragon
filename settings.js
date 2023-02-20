@@ -14,23 +14,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94786802371'] //ur owner number
-global.ownername = "Nimesh Official" //ur owner name
-global.ytname = "YT: HELA CLOUD" //ur yt chanel name
-global.socialm = "GitHub: nimaofficial" //ur github or insta name
-global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
+global.owner = ['254113406513'] //ur owner number
+global.ownername = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur owner name
+global.ytname = "YT: " //ur yt chanel name
+global.socialm = "GitHub: mudenyo" //ur github or insta name
+global.location = "Kenya, Kakamega, Lurambi" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
-global.linkz = "https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS" //your theme url which will be displayed on whatsapp
-global.websitex = "https://www.helacloud.ga" //ur website to be displayed
-global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
+global.ownernomer = "254113406513" //ur number
+global.premium = ['254113406513'] //ur premium number
+global.botname = '✩ͯ🄶🅁🄸🄵🄵🄾✵ BOT✩ͯ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/Kd6oWVcC3818KmhuNv3A3u" //your theme url which will be displayed on whatsapp
+global.websitex = "https://wa.me/qr/QEIB22ZHMJCVK1" //ur website to be displayed
+global.botscript = 'https://wa.me/qr/QEIB22ZHMJCVK1' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
-global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
+global.packname = "Sticker By ✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur sticker watermark packname
+global.author = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur sticker watermark author
+global.wm = "✩ͯ🄶🅁🄸🄵🄵🄾✵ 🆃︎🅴︎🅲︎🅷︎✩ͯ" //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -43,15 +43,15 @@ global.mess = {
     admin: 'This feature could be used by admins only!',
     botAdmin: 'Bot Must Be Admin First!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
+    owner: 'This feature could be used by mkuu solo',
     group: 'Features Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This feature could be used by bot only',
-    wait: 'Please with...',
-    wal: 'ටිකක් හිටහන් බඩු මග එන ගමන්',
+    wait: 'tulia umbwa...',
+    wal: 'hehe',
     linkm: 'Where is the link?',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate biz n legit ',
 }
 
 //media target
